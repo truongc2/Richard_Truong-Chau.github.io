@@ -6,7 +6,7 @@ This is a repository to track my progress in Data Science and to organise and tr
 
 ## Projects
 
-Here I will present my projects that focuses on exploratory data analysis and/or machine learning for problem solving.
+Here I will present my projects that focuses on exploratory data analysis and/or machine learning for problem solving. The notes section contains new tools and issues that I encountered during the project.
 
 ### Exploratory Data Analysis
 |Description   |Datasets   |Notes    |Start Date   |Last Update  |
