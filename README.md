@@ -2,7 +2,7 @@
 
 ## About
 
-This is a repository to track my progress in Data Science and to organise and track my goals/projects. The data is written primarily in Jupyter Notebook (Python).  
+This is a repository to track my progress in Data Science and to organise my goals/projects. The data is written primarily in Jupyter Notebook (Python).  
 
 ## Projects
 
@@ -37,4 +37,36 @@ In this section, this is no general theme for the projects.  It is just a showca
 |Characterize Mutations|Bioinformatics Research|Entire Salmonella genome|08.23.2018|05.3.2018|
 |Design, create, and implement a databse|Biological Database|Files in PDF format|04.20.2018|05.09.2018|
 |Webscrape|Webscrape IMDB Top 250 Movies|-|Beautifulsoup, request|05.25.2018|06.02.2018|
+
+## Courses and Certificates
+
+- Introduction to Computing (2016) (University of Illinois at Urbana-Champaign)
+- Introduction to Databases (2018) (University of Illinois at Urudebana-Champaign)
+- Python for Data Science and Machine Learning Bootcamp (2018 - In Progess) (Udemy)
+
+## Sources
+
+Interesting sources that I used along the journey.
+
+### Online Books
+
+- **Think Python** *How to Think Like a Computer Scientist*
+- **Think Stats** *Exploratory Data Analysis in Python*
+- **An Intro to Statistical Learning** *With Applications in R*
+- Fundamental of Databse System *7th Edition*
+
+### Blogs
+
+- https://medium.com/@yurykashnitskiy
+- https://www.dataquest.io/blog/data-science-portfolio-project/
+- https://www.dataquest.io/blog/python-data-science/
+- Kaggle Learn: Pandas, Data Visualizations, Machine Learning
+
+### YouTube Channels
+
+- Artificial Intelligence - All in One
+- Siraj Raval 
+- Socratica
+- OMGenomics
+
 
