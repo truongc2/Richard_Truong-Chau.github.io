@@ -1,8 +1,8 @@
-# Richard Truong-Chau - Progression in Data Science
+# Richard Truong-Chau - Portfolio
 
 ## About
 
-This is a repository to for my progress in Data Science to organise and track my goals/projects.  
+This is a repository to track my progress in Data Science and to organise and track my goals/projects. The data is written primarily in Jupyter Notebook (Python).  
 
 ## Projects
 
