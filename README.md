@@ -34,15 +34,15 @@ In this section, this is no general theme for the projects.  It is just a showca
 
 |Goal |Description   |Datasets   |Notes    |Start Date   |Last Update  |
 |:---------:|:------------:|:---------:|:-------:|:-----------:|:-----------:|
-|Characterize Mutations|Bioinformatics Research|Entire Salmonella genome|08.23.2018|05.3.2018|
-|Design, create, and implement a databse|Biological Database|Files in PDF format|04.20.2018|05.09.2018|
-|Webscrape|Webscrape IMDB Top 250 Movies|-|Beautifulsoup, request|05.25.2018|06.02.2018|
+|[Characterize Mutations](https://github.com/truongc2/Genome-Curation)|Bioinformatics Research|Entire Salmonella Genome|08.23.2018|05.3.2018|
+|[Design, create, and implement a database](https://github.com/truongc2/Genome-Database-Design-Creation-and-Testing)|Biological Database|Files in PDF format|04.20.2018|05.09.2018|
+|[Webscrape](https://github.com/truongc2/Exploratory-Data-Analysis-Wildlife-Strike-)|Webscrape IMDB Top 250 Movies|-|Beautifulsoup, request|05.25.2018|06.02.2018|
 
 ## Courses and Certificates
 
 - Introduction to Computing (2016) (University of Illinois at Urbana-Champaign)
 - Introduction to Databases (2018) (University of Illinois at Urudebana-Champaign)
-- Python for Data Science and Machine Learning Bootcamp (2018 - In Progess) (Udemy)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/) (2018 - In Progess) (Udemy)
 
 ## Sources
 
@@ -50,27 +50,27 @@ Interesting sources that I used along the journey.
 
 ### Online Books
 
-- **Think Python** *How to Think Like a Computer Scientist*
-- **Think Stats** *Exploratory Data Analysis in Python*
-- **An Intro to Statistical Learning** *With Applications in R*
-- Fundamental of Databse System *7th Edition*
+- [**Think Python** *How to Think Like a Computer Scientist*] (http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+- [**Think Stats** *Exploratory Data Analysis in Python*] (http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+- [**An Intro to Statistical Learning** *With Applications in R*] (http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
+- [Fundamental of Database System *7th Edition*](http://noahc.me/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf)
 
 ### Blogs
 
 - https://medium.com/@yurykashnitskiy
 - https://www.dataquest.io/blog/data-science-portfolio-project/
 - https://www.dataquest.io/blog/python-data-science/
-- Kaggle Learn: Pandas, Data Visualizations, Machine Learning
+- Kaggle Learn: [Pandas](https://www.kaggle.com/learn/pandas), [Data Visualizations](https://www.kaggle.com/learn/data-visualisation), [Machine Learning](https://www.kaggle.com/learn/machine-learning)
 
 ### YouTube Channels
 
-- Artificial Intelligence - All in One
-- Siraj Raval 
-- Socratica
-- OMGenomics
+- [Artificial Intelligence - All in One] (https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+- [Siraj Raval] (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Socratica] (https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
+- [OMGenomics] (https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw)
 
 ## CONTACT
-- EMAIL: rtcRichard@gmail.com
+- E-mail: rtcRichard@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/richard-truong-chau-1024b7128/)
 
 
