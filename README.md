@@ -18,6 +18,7 @@ Here I will present my projects that focuses on exploratory data analysis and/or
 ### Machine Learning
 
 In this section, I am mainly focused on projects that would help me learn about the theories and where I would then apply the theories in practice.
+
 |Algorithm  |Description   |Datasets   |Notes    |Start Date   |Last Update  |
 |:---------:|:------------:|:---------:|:-------:|:-----------:|:-----------:|
 |Logistic Regression & Random Forest|Fatal Encounters with Police|US Census Data (4 files) and Fatal Encounters| Feature Engineering and visualizations|05.31.2018|06.27.2018| 
