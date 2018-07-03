@@ -48,12 +48,12 @@ In this section, this is no general theme for the projects.  It is just a showca
 
 Interesting sources that I used along the journey.
 
-- Online Books
+### - Online Books
 
-+ [**Think Python** *How to Think Like a Computer Scientist*](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
-+ [**Think Stats** *Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
-+ [**An Intro to Statistical Learning** *With Applications in R*](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
-+ [Fundamental of Database System *7th Edition*](http://noahc.me/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf)
+  + [**Think Python** *How to Think Like a Computer Scientist*](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+  + [**Think Stats** *Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+  + [**An Intro to Statistical Learning** *With Applications in R*](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
+  + [Fundamental of Database System *7th Edition*](http://noahc.me/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf)
 
 ### Blogs
 
