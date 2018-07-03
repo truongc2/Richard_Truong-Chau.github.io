@@ -69,4 +69,9 @@ Interesting sources that I used along the journey.
 - Socratica
 - OMGenomics
 
+## CONTACT
+- EMAIL: rtcRichard@gmail.com
+- [LinkedIn](www.linkedin.com/in/richard-truong-chau)
+
+
 
