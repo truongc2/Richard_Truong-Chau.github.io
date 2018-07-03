@@ -40,8 +40,8 @@ In this section, this is no general theme for the projects.  It is just a showca
 
 ## Courses and Certificates
 
-- Introduction to Computing (2016) (University of Illinois at Urbana-Champaign)
-- Introduction to Databases (2018) (University of Illinois at Urudebana-Champaign)
+- [Introduction to Computing: Engineering and Science](https://courses.illinois.edu/schedule/2018/fall/CS/101) (2016) (University of Illinois at Urbana-Champaign)
+- Introduction to Databases (2018) (University of Illinois at Urbana-Champaign)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/) (2018 - In Progess) (Udemy)
 
 ## Sources
@@ -70,7 +70,7 @@ Interesting sources that I used along the journey.
 - [OMGenomics] (https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw)
 
 ## CONTACT
-- E-mail: rtcRichard@gmail.com
+- E-mail: RTCrichard@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/richard-truong-chau-1024b7128/)
 
 
