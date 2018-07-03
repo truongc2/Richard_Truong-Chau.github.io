@@ -2,13 +2,13 @@
 
 ## About
 
-My name is Richard Truong-Chau, a Biology student from the University of Illinois at Urbana-Champaign with a minor in Informatics and am eager to tansition into Data science. My interest and curiosity in data science/analysis stems from my experience in bioinformatics where I, for the first time, applied programming and statistics on relvent data. Though the challenge was difficult at first, I gained valuable skills that are applicable to various fields. Now, I want to apply these skills and further my knowledge in data science to uncover meaningful solutions in data that would make a difference in society and take on business challenges.
+My name is Richard Truong-Chau, a Biology student from the University of Illinois at Urbana-Champaign with a minor in Informatics and I am eager to transition into Data science. My interest and curiosity in data science/analysis stems from my experience in bioinformatics where I, for the first time, applied programming and statistics on relvent data. Though the challenge was difficult at first, I gained valuable skills that are applicable in various fields. Now, I want to apply these skills and further my knowledge in data science to uncover meaningful solutions in data that would make a difference in society and take on business challenges.
 
-This repository serves to track my progress in Data Science to help organize my goals and projects.
+This repository serves to track my progress in Data Science and to help organize my goals/projects.
 
 ## Projects
 
-Here I will present my projects that focuses on exploratory data analysis and/or machine learning for problem solving. The notes section contains new tools and issues that I encountered during the project.
+Here I present my projects that focuses on exploratory data analysis and/or visualizations. The notes section contains new tools and issues that I encountered during the project.
 
 ### Exploratory Data Analysis
 |Description   |Datasets   |Notes    |Start Date   |Last Update  |
@@ -19,7 +19,7 @@ Here I will present my projects that focuses on exploratory data analysis and/or
 
 ### Machine Learning
 
-In this section, I am mainly focused on projects that would help me learn about the theories and where I would then apply the theories in practice.
+In this section, I am mainly focused on machine learning projects that would help me learn new techniques/theories in practice. 
 
 |Algorithm  |Description   |Datasets   |Notes    |Start Date   |Last Update  |
 |:---------:|:------------:|:---------:|:-------:|:-----------:|:-----------:|
@@ -74,8 +74,12 @@ Interesting sources that I used along the journey.
 - [OMGenomics](https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw)
 
 ## CONTACT
+
+I welcome any inquires or collaborations.
+
 - E-mail: RTCrichard@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/richard-truong-chau-1024b7128/)
+
 
 
 
