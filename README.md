@@ -2,7 +2,9 @@
 
 ## About
 
-This is a repository to track my progress in Data Science and to organise my goals/projects. The data is written primarily in Jupyter Notebook (Python).  
+My name is Richard Truong-Chau, a Biology student from the University of Illinois at Urbana-Champaign with a minor in Informatics and am eager to tansition into Data science. My interest and curiosity in data science/analysis stems from my experience in bioinformatics where I, for the first time, applied programming and statistics on relvent data. Though the challenge was difficult at first, I gained valuable skills that are applicable to various fields. Now, I want to apply these skills and further my knowledge in data science to uncover meaningful solutions in data that would make a difference in society and take on business challenges.
+
+This repository serves to track my progress in Data Science to help organize my goals and projects.
 
 ## Projects
 
