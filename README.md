@@ -61,6 +61,8 @@ Interesting sources that I used along the journey.
 - https://www.dataquest.io/blog/data-science-portfolio-project/
 - https://www.dataquest.io/blog/python-data-science/
 - Kaggle Learn: [Pandas](https://www.kaggle.com/learn/pandas), [Data Visualizations](https://www.kaggle.com/learn/data-visualisation), [Machine Learning](https://www.kaggle.com/learn/machine-learning)
+- Datacamp:[Python Exploratory Data Analysis](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python), By [Karlijn Willems](https://www.datacamp.com/profile/karlijn)
+
 
 ### YouTube Channels
 
