@@ -50,9 +50,9 @@ Interesting sources that I used along the journey.
 
 ### Online Books
 
-- [**Think Python** *How to Think Like a Computer Scientist*] (http://www.greenteapress.com/thinkpython/thinkpython.pdf)
-- [**Think Stats** *Exploratory Data Analysis in Python*] (http://greenteapress.com/thinkstats2/thinkstats2.pdf)
-- [**An Intro to Statistical Learning** *With Applications in R*] (http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
+- [**Think Python** *How to Think Like a Computer Scientist*](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+- [**Think Stats** *Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+- [**An Intro to Statistical Learning** *With Applications in R*](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 - [Fundamental of Database System *7th Edition*](http://noahc.me/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf)
 
 ### Blogs
@@ -64,10 +64,10 @@ Interesting sources that I used along the journey.
 
 ### YouTube Channels
 
-- [Artificial Intelligence - All in One] (https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
-- [Siraj Raval] (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-- [Socratica] (https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
-- [OMGenomics] (https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw)
+- [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
+- [OMGenomics](https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw)
 
 ## CONTACT
 - E-mail: RTCrichard@gmail.com
