@@ -37,8 +37,8 @@ In this section, this is no general theme for the projects.  It is just a showca
 
 |Goal |Description   |Datasets   |Notes    |Start Date   |Last Update  |
 |:---------:|:------------:|:---------:|:-------:|:-----------:|:-----------:|
-|[Characterize Mutations](https://github.com/truongc2/Genome-Curation)|Bioinformatics Research|Entire Salmonella Genome|08.23.2018|05.3.2018|
-|[Design, create, and implement a database](https://github.com/truongc2/Genome-Database-Design-Creation-and-Testing)|Biological Database|Files in PDF format|04.20.2018|05.09.2018|
+|[Characterize Mutations](https://github.com/truongc2/Genome-Curation)|Bioinformatics Research|Entire Salmonella Genome|Regular Expressions|08.23.2018|05.3.2018|
+|[Design, create, and implement a database](https://github.com/truongc2/Genome-Database-Design-Creation-and-Testing)|Biological Database|Files in PDF format|-|04.20.2018|05.09.2018|
 |[Webscrape](https://github.com/truongc2/Exploratory-Data-Analysis-Wildlife-Strike-)|Webscrape IMDB Top 250 Movies|-|Beautifulsoup, request|05.25.2018|06.02.2018|
 
 ## Courses and Certificates
