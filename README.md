@@ -11,6 +11,7 @@ This repository serves to track my progress in Data Science and to help organize
 Here I present my projects that focuses on exploratory data analysis and/or visualizations. The notes section contains new tools and issues that I encountered during the project.
 
 ### Exploratory Data Analysis
+
 |Description   |Datasets   |Notes    |Start Date   |Last Update  |
 |:------------:|:---------:|:-------:|:-----------:|:-----------:|
 |Aircraft Wildlife Strikes |Wildlife Strikes from 1990-2015| Explore Pandas and visualization techniques|05.20.2018|05.22.2018|
