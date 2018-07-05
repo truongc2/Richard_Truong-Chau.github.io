@@ -16,6 +16,7 @@ Here I present my projects that focuses on exploratory data analysis and/or visu
 |[Aircraft Wildlife Strikes](https://github.com/truongc2/Exploratory-Data-Analysis-Wildlife-Strike-) |Wildlife Strikes from 1990-2015| Explore Pandas and visualization techniques|05.20.2018|05.22.2018|
 |[Analyzing 911 Calls](https://github.com/truongc2/911-Calls-EDA)|911 CSV|Pivot Tables and Timestamps|06.11.2018|06.13.2018|
 |[Financial Crisis](https://github.com/truongc2/Financial-Crises-EDA) |Data from Jan. 2006 to Jan. 2016|Pandas' DataReader|06.13.2018|06.15.2018|
+|[Data Science For Good: NYC Specialized High School Exam](https://github.com/truongc2/Data-For-Good-NYC-Specialized-High-School/upload)|Census Data & SHSAT Registration|06.27.2018|07.05.2018|
 
 ### Machine Learning
 
@@ -23,12 +24,13 @@ In this section, I am mainly focused on machine learning projects that would hel
 
 |Algorithm  |Description   |Datasets   |Notes    |Start Date   |Last Update  |
 |:---------:|:------------:|:---------:|:-------:|:-----------:|:-----------:|
-|Logistic Regression & Random Forest|Fatal Encounters with Police|US Census Data (4 files) and Fatal Encounters| Feature Engineering and visualizations|05.31.2018|06.27.2018| 
+|Logistic Regression & Random Forest|[Fatal Encounters with Police](https://github.com/truongc2/Police-Encounters)|US Census Data (4 files) and Fatal Encounters| Feature Engineering and visualizations|05.31.2018|06.27.2018| 
 |Linear Regression|[Website or Mobile Apps](https://github.com/truongc2/Website-or-Mobile-Apps)|Ecommerce data|-|06.20.2018|06.20.2018|
 |Logistic Regression|[Ad click](https://github.com/truongc2/-Ad-Click-)|Generated Advertisement Dataset|Heatmaps for Null Values|06.21.2018|06.22.2018|
 |K Nearest Neighbors|[Predict Target Class](https://github.com/truongc2/KNN-Project)|Generated Dataset|StandardScaler, Elbow Method|06.22.2018|06.23.2018|
 |Decision Tree & Random Forest|[LendingClub Loans](https://github.com/truongc2/LendingClub-Loans)|LendingClub data from 2007-2010|-|06.25.2018|06.27.2018|
 |Natural Language Processing|[Yelp Review](https://github.com/truongc2/Yelp-Reviews)|Yelp Review Ratings|-|06.28.2018|07.05.2018|
+
 ### Stand Alone Projects
 
 In this section, this is no general theme for the projects.  It is just a showcase of my research and new tools that I wanted to test.
