@@ -8,7 +8,7 @@ This repository serves to track my progress in Data Science and to help organize
 ## Projects
 
 - Here I present my projects that focuses on exploratory data analysis and/or visualizations. 
-- The **Notes section** contains new tools that I used and issues that I encountered during the project.
+- The **Notes** section contains new tools that I used and issues that I encountered during the project.
 
 ### Exploratory Data Analysis
 
