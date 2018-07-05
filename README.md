@@ -28,7 +28,7 @@ In this section, I am mainly focused on machine learning projects that would hel
 |Logistic Regression|[Ad click](https://github.com/truongc2/-Ad-Click-)|Generated Advertisement Dataset|Heatmaps for Null Values|06.21.2018|06.22.2018|
 |K Nearest Neighbors|[Predict Target Class](https://github.com/truongc2/KNN-Project)|Generated Dataset|StandardScaler, Elbow Method|06.22.2018|06.23.2018|
 |Decision Tree & Random Forest|[LendingClub Loans](https://github.com/truongc2/LendingClub-Loans)|LendingClub data from 2007-2010|-|06.25.2018|06.27.2018|
-
+|Natural Language Processing|[Yelp Review](https://github.com/truongc2/Yelp-Reviews)|Yelp Review Ratings|-|06.28.2018|07.05.2018|
 ### Stand Alone Projects
 
 In this section, this is no general theme for the projects.  It is just a showcase of my research and new tools that I wanted to test.
