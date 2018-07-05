@@ -1,4 +1,3 @@
-# Richard Truong-Chau - Portfolio
 
 ## About
 
