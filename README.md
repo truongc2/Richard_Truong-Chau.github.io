@@ -27,7 +27,7 @@ In this section, I am mainly focused on machine learning projects that would hel
 |:---------:|:------------:|:---------:|:-------:|:-----------:|:-----------:|
 |Logistic Regression & Random Forest|[Fatal Encounters with Police](https://github.com/truongc2/Police-Encounters)|US Census Data (4 files) and Fatal Encounters| Feature Engineering and visualizations|05.31.2018|06.27.2018| 
 |Linear Regression|[Website or Mobile Apps](https://github.com/truongc2/Website-or-Mobile-Apps)|Ecommerce data|-|06.20.2018|06.20.2018|
-|Logistic Regression|[Ad click](https://github.com/truongc2/-Ad-Click-)|Generated Advertisement Dataset|Heatmaps for Null Values|06.21.2018|06.22.2018|
+|Logistic Regression|[Ad click](https://github.com/truongc2/-Ad-Click-)|Generated Advertisement Dataset|Heatmaps for Null Values and Get Dummies|06.21.2018|06.22.2018|
 |K Nearest Neighbors|[Predict Target Class](https://github.com/truongc2/KNN-Project)|Generated Dataset|StandardScaler, Elbow Method|06.22.2018|06.23.2018|
 |Decision Tree & Random Forest|[LendingClub Loans](https://github.com/truongc2/LendingClub-Loans)|LendingClub data from 2007-2010|-|06.25.2018|06.27.2018|
 |Natural Language Processing|[Yelp Review](https://github.com/truongc2/Yelp-Reviews)|Yelp Review Ratings|-|06.28.2018|07.05.2018|
