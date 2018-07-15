@@ -47,7 +47,7 @@ In this section, this is no general theme for the projects.  It is just a showca
 
 - [Introduction to Computing: Engineering and Science](https://courses.illinois.edu/schedule/2018/fall/CS/101) (2016) (University of Illinois at Urbana-Champaign)
 - Introduction to Databases (2018) (University of Illinois at Urbana-Champaign)
-- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/) (2018 - In Progess) (Udemy)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-RL3WTSEH/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) (2018)
 
 ## Sources
 
