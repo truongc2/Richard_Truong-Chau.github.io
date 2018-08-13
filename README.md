@@ -31,7 +31,7 @@ In this section, I am mainly focused on machine learning projects that would hel
 |K Nearest Neighbors|[Predict Target Class](https://github.com/truongc2/KNN-Project)|Generated Dataset|StandardScaler, Elbow Method|06.22.2018|06.23.2018|
 |Decision Tree & Random Forest|[LendingClub Loans](https://github.com/truongc2/LendingClub-Loans)|LendingClub data from 2007-2010|-|06.25.2018|06.27.2018|
 |Natural Language Processing|[Yelp Review](https://github.com/truongc2/Yelp-Reviews)|Yelp Review Ratings|-|06.28.2018|07.05.2018|
-|PCA & Random Forest|Predict Costa Rican Poverty Levels| Kaggle| -| 07.20.2018|07.26.2018|
+|PCA & Random Forest|[Predict Costa Rican Poverty Levels](https://github.com/truongc2/Costa-Rican-Poverty-Level-Prediction)| Kaggle| -| 07.20.2018|07.26.2018|
 
 ### Stand Alone Projects
 
