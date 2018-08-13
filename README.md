@@ -17,7 +17,7 @@ This repository serves to track my progress in Data Science and to help organize
 |[Aircraft Wildlife Strikes](https://github.com/truongc2/Exploratory-Data-Analysis-Wildlife-Strike-) |Wildlife Strikes from 1990-2015| Explore Pandas and visualization techniques|05.20.2018|05.22.2018|
 |[Analyzing 911 Calls](https://github.com/truongc2/911-Calls-EDA)|911 CSV|Pivot Tables and Timestamps|06.11.2018|06.13.2018|
 |[Financial Crisis](https://github.com/truongc2/Financial-Crises-EDA) |Data from Jan. 2006 to Jan. 2016|Pandas' DataReader|06.13.2018|06.15.2018|
-|[Data Science For Good: NYC Specialized High School Exam](https://github.com/truongc2/Data-For-Good-NYC-Specialized-High-School/upload)|Census Data & SHSAT Registration|Interactive Plots (Plotly)|06.27.2018|07.05.2018|
+|[Data Science For Good: NYC Specialized High School Exam](https://github.com/truongc2/PASSNYC)|Census Data & SHSAT Registration|Interactive Plots (Plotly)|06.27.2018|07.05.2018|
 
 ### Machine Learning
 
