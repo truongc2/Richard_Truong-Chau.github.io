@@ -32,6 +32,7 @@ In this section, I am mainly focused on machine learning projects that would hel
 |Decision Tree & Random Forest|[LendingClub Loans](https://github.com/truongc2/LendingClub-Loans)|LendingClub data from 2007-2010|-|06.25.2018|06.27.2018|
 |Natural Language Processing|[Yelp Review](https://github.com/truongc2/Yelp-Reviews)|Yelp Review Ratings|-|06.28.2018|07.05.2018|
 |PCA & Random Forest|[Predict Costa Rican Poverty Levels](https://github.com/truongc2/Costa-Rican-Poverty-Level-Prediction)| Kaggle| -| 07.20.2018|07.26.2018|
+|Random Forest & Logistic Regression|Predict Monetary Damage|NOAA Severe Earthquake Dataset|-|12.06.2018|12.12.2018|
 
 ### Stand Alone Projects
 
