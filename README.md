@@ -1,9 +1,9 @@
 
 ## About
 
-My name is Richard Truong-Chau, a Biology student from the University of Illinois at Urbana-Champaign with a minor in Informatics and I am eager to transition into Data science. My interest and curiosity in data science/analysis stems from my experience in bioinformatics where I, for the first time, applied programming and statistics on relvent data. Though the challenge was difficult at first, I gained valuable skills that are applicable in various fields. Now, I want to apply these skills and further my knowledge in data science to uncover meaningful solutions in data that would make a difference in society and take on business challenges.
+My name is Richard Truong-Chau and I am currently a data scientist consultant at Maven Wave. I am passionate about applying machine learning to uncover meaningful insight in businesses and society.
 
-This repository serves to track my progress in Data Science and to help organize my goals/projects.
+This repository serves to track my progress in Data Science and to help organize my goals/projects. Feel free to get in touch if you want to collaborate or to speak more about my qualifications. 
 
 ## Projects
 
@@ -44,9 +44,10 @@ In this section, this is no general theme for the projects.  It is just a showca
 |[Characterize Mutations](https://github.com/truongc2/Genome-Curation)|Bioinformatics Research|Entire Salmonella Genome|Regular Expressions|08.23.2018|05.3.2018|
 |[Design, create, and implement a database](https://github.com/truongc2/Genome-Database-Design-Creation-and-Testing)|Biological Database|Files in PDF format|-|04.20.2018|05.09.2018|
 |[Webscrape](https://github.com/truongc2/Exploratory-Data-Analysis-Wildlife-Strike-)|Webscrape IMDB Top 250 Movies|-|Beautifulsoup, request|05.25.2018|06.02.2018|
+|[Clothing Recommendation](https://github.com/truongc2/Clothing-Recommendation)|Clothing classification and recommendation|Scraped data|Flask, Docker, Word Embeddings and Image Processing|12.26.2019|12.30.2019|
 
 ## Courses and Certificates
-
+- [Google Cloud Certified Professional Data Engineer](https://www.credential.net/7fe39e61-7e87-4942-b8e0-c3d45c1fb515?key=c084e23d197d743f8ae4d67092960a226f9bb30860300979a9ba638980727fd7&_ga=2.259592842.1059447383.1588545590-2023188232.1588545590)
 - [Introduction to Computing: Engineering and Science](https://courses.illinois.edu/schedule/2018/fall/CS/101) (2016) (University of Illinois at Urbana-Champaign)
 - Introduction to Databases (2018) (University of Illinois at Urbana-Champaign)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-RL3WTSEH/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) (2018)
@@ -74,7 +75,6 @@ Interesting sources that I used along the journey.
 ### YouTube Channels
 
 - [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
 - [OMGenomics](https://www.youtube.com/channel/UCG4kmWK8UyzfenZ60xVBapw)
 
